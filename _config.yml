@@ -69,5 +69,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:three-waters/three-waters.github.io.git
+  repo: 
+    github: git@github.com:three-waters/three-waters.github.io.git
+    waters: blog@www.threewaters.cn:/home/blog/hexo-waters-blog.git
   branch: master
