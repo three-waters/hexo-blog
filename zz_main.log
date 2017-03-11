@@ -1,5 +1,129 @@
 ============================begin============================
 
+=====================2017-03-11 17:07:27=====================
+
+=============================================================
+
+
+
+
+
+On branch master
+
+
+Your branch is up-to-date with 'origin/master'.
+
+
+Changes to be committed:
+
+
+  (use "git reset HEAD <file>..." to unstage)
+
+
+
+
+
+	modified:   _config.yml
+
+
+	new file:   source/_posts/aaa.md
+
+
+	deleted:    source/_posts/hello-world.md
+
+
+	deleted:    source/_posts/test.md
+
+
+	deleted:    source/_posts/testtesttest.md
+
+
+	modified:   themes/next/_config.yml
+
+
+	modified:   themes/next/languages/zh-Hans.yml
+
+
+	modified:   themes/next/layout/_macro/reward.swig
+
+
+	modified:   themes/next/layout/_partials/comments.swig
+
+
+	new file:   themes/next/source/404.html
+
+
+	deleted:    themes/next/source/images/avatar.gif
+
+
+	new file:   themes/next/source/images/avatar.jpeg
+
+
+	new file:   themes/next/source/images/path/to/alipay.png
+
+
+	new file:   themes/next/source/images/path/to/wechat.png
+
+
+	modified:   zz_main.log
+
+
+
+
+
+[master 0856d00] '20170311-1707'
+
+
+ 15 files changed, 115 insertions(+), 66 deletions(-)
+
+
+ create mode 100644 source/_posts/aaa.md
+
+
+ delete mode 100644 source/_posts/hello-world.md
+
+
+ delete mode 100644 source/_posts/test.md
+
+
+ delete mode 100644 source/_posts/testtesttest.md
+
+
+ create mode 100644 themes/next/source/404.html
+
+
+ delete mode 100644 themes/next/source/images/avatar.gif
+
+
+ create mode 100644 themes/next/source/images/avatar.jpeg
+
+
+ create mode 100644 themes/next/source/images/path/to/alipay.png
+
+
+ create mode 100644 themes/next/source/images/path/to/wechat.png
+
+
+Branch master set up to track remote branch master from origin.
+
+
+git push using:  next master
+
+
+=============================================================
+
+=====================2017-03-11 17:07:46=====================
+
+=============================end=============================
+
+
+
+
+
+
+
+============================begin============================
+
 =====================2017-03-11 12:00:06=====================
 
 =============================================================
