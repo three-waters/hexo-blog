@@ -1,5 +1,84 @@
 ============================begin============================
 
+=====================2017-03-11 11:59:30=====================
+
+=============================================================
+
+
+
+
+
+On branch master
+
+
+Your branch is ahead of 'origin/master' by 2 commits.
+
+
+  (use "git push" to publish your local commits)
+
+
+Changes to be committed:
+
+
+  (use "git reset HEAD <file>..." to unstage)
+
+
+
+
+
+	new file:   zz_commit.py
+
+
+	new file:   zz_main.log
+
+
+	new file:   zz_pull.py
+
+
+	new file:   zz_temp.log
+
+
+
+
+
+[master 8afbf5d] '20170311-1159'
+
+
+ 4 files changed, 720 insertions(+)
+
+
+ create mode 100644 zz_commit.py
+
+
+ create mode 100644 zz_main.log
+
+
+ create mode 100644 zz_pull.py
+
+
+ create mode 100644 zz_temp.log
+
+
+Branch master set up to track remote branch master from origin.
+
+
+git push using:  next master
+
+
+=============================================================
+
+=====================2017-03-11 11:59:44=====================
+
+=============================end=============================
+
+
+
+
+
+
+
+============================begin============================
+
 =====================2017-03-11 11:59:06=====================
 
 =============================================================
