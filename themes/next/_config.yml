@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
@@ -153,7 +153,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/avatar.jpeg
 
 
 # Table Of Contents in the Sidebar
@@ -279,10 +279,11 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 9b0945d27756f27c9f1e9f0e116597d3
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: threewaters
+duoshuo_hotartical: true
 
 # Disqus
 #disqus_shortname:
@@ -339,9 +340,9 @@ mathjax:
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: 948e3d03da38c680385c3d5e1b133cef
+  admin_nickname: 主编大人
 
 
 # Facebook SDK Support.
@@ -375,9 +376,9 @@ vkontakte_api:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: f1NcvtDNnFjiWGCMkvA4kdgg-gzGzoHsz
+  app_key: UXwlqao0RD8xc9DIYRlTgr4K
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -511,6 +512,11 @@ vendors:
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
 
+
+# 打赏功能
+reward_comment: 坚持原创技术分享，您的支持将是我的动力！
+wechatpay: /images/path/to/wechat.png
+alipay: /images/path/to/alipay.png
 
 
 # Assets

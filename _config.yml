@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 张淼的小站
+title: 小站
 subtitle: 生命在于运动      代码在于折腾
-description:
-author: waters
+description: 张淼的个人主站
+author: threewaters
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://threewaters.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
